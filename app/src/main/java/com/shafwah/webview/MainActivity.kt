@@ -15,7 +15,7 @@ class MainActivity : ComponentActivity() {
     private lateinit var swipe: SwipeRefreshLayout
 
     companion object {
-        private const val START_URL = "https://example.com" // TODO: ganti dengan URL Anda
+        private const val START_URL = "https://tsirwah.com/aplikasi-tsirwah" // TODO: ganti dengan URL Anda
         private const val UA_SUFFIX = " ShafwahWebView/1.0"
     }
 
